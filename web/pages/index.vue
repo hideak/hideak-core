@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <div>Home works!</div>
-        <NuxtLink to="/about">To About!</NuxtLink>
-    </div>
+  <BasePage>
+    <div>Home works!</div>
+    <NuxtLink to="/about">To About!</NuxtLink>
+  </BasePage>
 </template>

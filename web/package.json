@@ -8,13 +8,14 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@types/bootstrap": "^5.2.4",
-    "nuxt": "3.0.0-rc.11",
-    "sass": "^1.55.0",
-    "sass-loader": "^13.0.2"
+    "@nuxt/content": "^2.4.3",
+    "@types/bootstrap": "^5.2.6",
+    "nuxt": "^3.2.2",
+    "sass": "^1.58.3",
+    "sass-loader": "^13.2.0"
   },
   "dependencies": {
-    "bootstrap": "^5.2.1",
-    "bootstrap-icons": "^1.9.1"
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3"
   }
 }
